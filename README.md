@@ -60,4 +60,4 @@ Test with real users before building a full platform.
 
 ## Status
 
-Completed
+Initial framework completed; ongoing improvements planned.
