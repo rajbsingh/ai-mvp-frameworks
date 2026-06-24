@@ -60,4 +60,4 @@ Test with real users before building a full platform.
 
 ## Status
 
-Work in progress.
+Completed
